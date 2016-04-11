@@ -1,0 +1,15 @@
+c:\users\migue\onedrive\documentos\visual studio 2015\Projects\ConsultaSiscomex\ConsultaSiscomex\bin\Debug\ConsultaSiscomex.exe
+c:\users\migue\onedrive\documentos\visual studio 2015\Projects\ConsultaSiscomex\ConsultaSiscomex\bin\Debug\ConsultaSiscomex.pdb
+c:\users\migue\onedrive\documentos\visual studio 2015\Projects\ConsultaSiscomex\ConsultaSiscomex\bin\Debug\WebDriver.dll
+c:\users\migue\onedrive\documentos\visual studio 2015\Projects\ConsultaSiscomex\ConsultaSiscomex\bin\Debug\WebDriver.xml
+c:\users\migue\onedrive\documentos\visual studio 2015\Projects\ConsultaSiscomex\ConsultaSiscomex\obj\Debug\ConsultaSiscomex.csprojResolveAssemblyReference.cache
+c:\users\migue\onedrive\documentos\visual studio 2015\Projects\ConsultaSiscomex\ConsultaSiscomex\obj\Debug\ConsultaSiscomex.Form1.resources
+c:\users\migue\onedrive\documentos\visual studio 2015\Projects\ConsultaSiscomex\ConsultaSiscomex\obj\Debug\ConsultaSiscomex.Properties.Resources.resources
+c:\users\migue\onedrive\documentos\visual studio 2015\Projects\ConsultaSiscomex\ConsultaSiscomex\obj\Debug\ConsultaSiscomex.csproj.GenerateResource.Cache
+c:\users\migue\onedrive\documentos\visual studio 2015\Projects\ConsultaSiscomex\ConsultaSiscomex\obj\Debug\ConsultaSiscomex.exe
+c:\users\migue\onedrive\documentos\visual studio 2015\Projects\ConsultaSiscomex\ConsultaSiscomex\obj\Debug\ConsultaSiscomex.pdb
+C:\Users\migue\onedrive\documentos\visual studio 2015\Projects\ConsultaSiscomex\ConsultaSiscomex\bin\Debug\ConsultaSiscomex.exe.config
+C:\Users\migue\OneDrive\Documentos\Visual Studio 2015\Projects\ConsultaSiscomex\ConsultaSiscomex\bin\Debug\tessnet2_32.dll
+C:\Users\migue\OneDrive\Documentos\Visual Studio 2015\Projects\ConsultaSiscomex\ConsultaSiscomex\bin\Debug\tessnet2_32.pdb
+C:\Users\migue\OneDrive\Documentos\Visual Studio 2015\Projects\ConsultaSiscomex\ConsultaSiscomex\bin\Debug\WebDriver.Support.dll
+C:\Users\migue\OneDrive\Documentos\Visual Studio 2015\Projects\ConsultaSiscomex\ConsultaSiscomex\bin\Debug\WebDriver.Support.xml
