@@ -1,0 +1,13 @@
+d:\usuários\sb042182\documents\visual studio 2015\Projects\TestBot\TestBot\bin\Debug\TestBot.exe.config
+d:\usuários\sb042182\documents\visual studio 2015\Projects\TestBot\TestBot\bin\Debug\TestBot.exe
+d:\usuários\sb042182\documents\visual studio 2015\Projects\TestBot\TestBot\bin\Debug\TestBot.pdb
+d:\usuários\sb042182\documents\visual studio 2015\Projects\TestBot\TestBot\bin\Debug\WebDriver.dll
+d:\usuários\sb042182\documents\visual studio 2015\Projects\TestBot\TestBot\bin\Debug\WebDriver.Support.dll
+d:\usuários\sb042182\documents\visual studio 2015\Projects\TestBot\TestBot\bin\Debug\WebDriver.xml
+d:\usuários\sb042182\documents\visual studio 2015\Projects\TestBot\TestBot\bin\Debug\WebDriver.Support.xml
+d:\usuários\sb042182\documents\visual studio 2015\Projects\TestBot\TestBot\obj\Debug\TestBot.csprojResolveAssemblyReference.cache
+d:\usuários\sb042182\documents\visual studio 2015\Projects\TestBot\TestBot\obj\Debug\TestBot.Form1.resources
+d:\usuários\sb042182\documents\visual studio 2015\Projects\TestBot\TestBot\obj\Debug\TestBot.Properties.Resources.resources
+d:\usuários\sb042182\documents\visual studio 2015\Projects\TestBot\TestBot\obj\Debug\TestBot.csproj.GenerateResource.Cache
+d:\usuários\sb042182\documents\visual studio 2015\Projects\TestBot\TestBot\obj\Debug\TestBot.exe
+d:\usuários\sb042182\documents\visual studio 2015\Projects\TestBot\TestBot\obj\Debug\TestBot.pdb
